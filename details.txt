@@ -1,0 +1,5 @@
+Ce fichier texte détaille la composition des fichiers contenus dans le projet :
+
+- codeHTML.html
+- README.md
+- Détails.txt
